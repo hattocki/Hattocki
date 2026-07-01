@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**hattocki/Hattocki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently transitioning into Linux Infrastructure and System Administration.
 
-Here are some ideas to get you started:
+My background is in B2B sales, but over the past months I've been building practical skills in Linux administration, containerization, networking and monitoring. My goal is to become a Junior Linux Engineer / Support Engineer and continue growing in infrastructure and operations.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Technologies I'm working with
+
+- Linux (Ubuntu Server)
+- Bash
+- Git & GitHub
+- Docker & Docker Compose
+- Nginx
+- Networking
+- SSH
+- Prometheus
+- Grafana
+
+## 🖥️ Home Lab
+
+I maintain a small home lab based on Ubuntu Server virtual machines where I practice:
+
+- Linux administration
+- User and permission management
+- Service management (systemd)
+- Docker deployments
+- Web server configuration
+- Monitoring and troubleshooting
+- Network configuration
+
+## 📚 Current Learning Goals
+
+- Improve Linux administration skills
+- Build real-world infrastructure projects
+- Practice troubleshooting
+- Learn automation with Bash
+- Expand monitoring and observability knowledge
+
+## 📂 Featured Projects
+
+Projects will be added as I continue building my home lab.
+
+## 📫 Contact
+
+- GitHub: https://github.com/Hattocki
+- Telegram: @username
