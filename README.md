@@ -43,4 +43,4 @@ Projects will be added as I continue building my home lab.
 ## 📫 Contact
 
 - GitHub: https://github.com/Hattocki
-- Telegram: @username
+- Telegram: @hattocki
